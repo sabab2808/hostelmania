@@ -1,0 +1,74 @@
+[
+    {
+      "id": "1",
+      "title": "Pancakes",
+      "image": "https://i.ibb.co/HTzF54s/pancakes.jpg",
+      "rating": 4.5,
+      "price": 5.99,
+      "category": "breakfast"
+    },
+    {
+      "id": "2",
+      "title": "Omelette",
+      "image": "https://i.ibb.co/8Kr93h9/Omelette.jpg",
+      "rating": 4.7,
+      "price": 4.99,
+      "category": "breakfast"
+    },
+    {
+      "id": "3",
+      "title": "French Toast",
+      "image": "https://i.ibb.co/nRHpdFt/french-toast.jpg",
+      "rating": 4.6,
+      "price": 5.49,
+      "category": "breakfast"
+    },
+    {
+      "id": "4",
+      "title": "Grilled Chicken Sandwich",
+      "image": "https://i.ibb.co/KFpHPn6/sandwich.jpg",
+      "rating": 4.8,
+      "price": 7.99,
+      "category": "lunch"
+    },
+    {
+      "id": "5",
+      "title": "Caesar Salad",
+      "image": "https://i.ibb.co/kGQPLnT/salad.jpg",
+      "rating": 4.5,
+      "price": 6.99,
+      "category": "lunch"
+    },
+    {
+      "id": "6",
+      "title": "Spaghetti Carbonara",
+      "image": "https://i.ibb.co/1vRh9Wr/carbonara.jpg",
+      "rating": 4.7,
+      "price": 8.99,
+      "category": "lunch"
+    },
+    {
+      "id": "7",
+      "title": "Steak and Potatoes",
+      "image": "https://i.ibb.co/bg657ZN/steak-and-potato.jpg",
+      "rating": 4.9,
+      "price": 14.99,
+      "category": "dinner"
+    },
+    {
+      "id": "8",
+      "title": "Salmon with Asparagus",
+      "image": "https://i.ibb.co/w4Km5Pw/salmonasparagus.jpg",
+      "rating": 4.8,
+      "price": 13.99,
+      "category": "dinner"
+    },
+    {
+      "id": "9",
+      "title": "Vegetarian Stir Fry",
+      "image": "https://i.ibb.co/GsmfDcY/vegetable.jpg",
+      "rating": 4.6,
+      "price": 9.99,
+      "category": "dinner"
+    }
+  ]

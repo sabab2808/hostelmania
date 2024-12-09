@@ -1,0 +1,15 @@
+.active{
+    background-color: rgb(52, 152, 215) !important;
+    color: white !important;
+    font-weight: 600;
+}
+
+.active:hover{
+    background-color: rgb(46, 140, 199)  !important;
+    color: white !important;
+}
+
+li:hover{
+    background-color: rgb(75, 207, 213) 152, 215) ;
+    border-radius: 0.5rem;
+}
