@@ -1,13 +1,10 @@
 {
   "name": "hostelmania",
-  "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "private": true,
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "server": "node express.js",
+    "dev": "vite"
   },
   "dependencies": {
     "@heroicons/react": "^2.1.3",
