@@ -23,7 +23,7 @@ HostelMania is a comprehensive meal management system designed for student hoste
 ## Cloning and Running the Project Locally
 - **Step 1:** Clone the repository.
   ```bash
-  git clone https://github.com/Mahbub049/hostelmania.git
+  git clone https://github.com/sabab2808/hostelmania.git
   ```
 - **Step 2:** Navigate to the project directory
   ```bash
@@ -33,7 +33,7 @@ HostelMania is a comprehensive meal management system designed for student hoste
   ```bash
   npm install
   ```
-- **Step 4:** Create a .env file and add your Firebase config and MongoDB credentials.
+- **Step 4:** Create a .env file and add your Firebase config and mysql credentials.
 
 - **Step 5:**  Start the development server.
   ```bash

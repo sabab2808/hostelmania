@@ -1,9 +1,12 @@
+// eslint-disable-next-line no-undef
 const db = mysql.createConnection({
   host: 'localhost',
   user: 'root',
   password: '',
-  database: 'hostelmania',  // 
+  database: 'hostelmania',
+  port: 3306, 
 });
+
 
 
 db.connect((err) => {
